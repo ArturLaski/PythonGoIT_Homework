@@ -9,7 +9,7 @@ To get started with this repository, follow these steps:
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
    ```
-   https://github.com/ArturLaski/goitneo-python-hw-3-group-name.git
+   https://github.com/ArturLaski/PythonGoIT_Homework.git
    ```
 
 3. **Navigate Through Content**: Explore the repository to find the homework assignments, lesson materials, and supplementary resources you need. 
